@@ -1,0 +1,2 @@
+# Bachelorprojekt
+Koder til bachelorprojekt

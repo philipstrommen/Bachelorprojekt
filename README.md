@@ -1,5 +1,5 @@
 # Bachelorprojekt
-Læs før koderne køres
+Læs nedenstående før egen test af kode
 
 I projektet anvendes forskelligt data, alt efter hvordan koden er kørt.
 

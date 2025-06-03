@@ -5,7 +5,7 @@ I projektet anvendes forskelligt data, alt efter hvordan koden er kørt.
 
 I starten af projektet anvendes datataen DNK som er fra den 6. februar.
 
-Efter det anvendes dataen DNK_17_3 som er fra den 17. marts, her de grundspillet færdiggjort og der er 10 runder tilbage.
+Efter det anvendes dataen DNK_17_3 som er fra den 17. marts, her er grundspillet færdiggjort og der er 10 runder tilbage.
 
 Til sidst bruges dataen Superliga som er taget fra når superligaen er færdigspillet. 
 

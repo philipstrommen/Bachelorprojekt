@@ -9,6 +9,11 @@ Efter det anvendes dataen DNK_17_3 som er fra den 17. marts, her er grundspillet
 
 Til sidst bruges dataen Superliga som er taget fra når superligaen er færdigspillet. 
 
+# Henvisning
+I få tilfælde er følgende to Github-links brugt som inspiration til kode, samt teori om Fisher Scoring.
+https://andrewcharlesjones.github.io/journal/fisher-scoring.html
+https://github.com/mariegudum/Bachelorprojekt/tree/main
+
 ## Indlæsning af data
 Hvis du vil indlæse data når du tilpasse koden "read_excel("/Users/philipstrommen/Desktop/Bachelor/DNK.xlsx")" til hvor du har dit data liggende. Mit ligger på skrivebordet i min Bachelor mappe. 
 
